@@ -1,3 +1,6 @@
 #include<stdio.h>
 
-//add sum method
+float sumfloat (float a, float b)
+{
+  return a+b;
+}
